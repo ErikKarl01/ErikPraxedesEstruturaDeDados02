@@ -1,0 +1,10 @@
+Joao	8.17	Aprovado
+Maria	7.17	Aprovado
+Carlos	5.50	Reprovado
+kekin	-1.#R	Reprovado
+cavalo	8.00	Aprovado
+pika	8.00	Aprovado
+de	8.00	Aprovado
+jegue	7.67	Aprovado
+jao	7.67	Aprovado
+crakudo	4.00	Reprovado
